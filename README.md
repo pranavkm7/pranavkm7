@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranavkm7
-- 👀 I’m interested in ...
+- 👀 I’m interested in talking
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me Pranavkm007@gmail.com
 
 <!---
